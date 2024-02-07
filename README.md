@@ -1,1 +1,1 @@
-Referennce: https://www.sitepoint.com/webpack-beginner-guide/
+Reference: https://www.sitepoint.com/webpack-beginner-guide/
